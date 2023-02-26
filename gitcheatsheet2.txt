@@ -4,3 +4,4 @@ some basic commands,
 3. git commit -m [file]
 4. git push -u origin [file]
 5. git diff
+6. git reset HEAD [file]
