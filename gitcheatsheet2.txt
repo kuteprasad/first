@@ -1,0 +1,7 @@
+some basic commands,
+1. git add [file]
+2. git reset [file]
+3. git commit -m [file]
+4. git push -u origin [file]
+5. git diff
+6. git reset HEAD [file]
